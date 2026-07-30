@@ -8,8 +8,8 @@
 
 | Project | Database | Level | Queries |
 |---------|----------|-------|---------|
-| [01 — ITI Academic Database](./01_ITI_Database/) | ITI System | Foundational → Intermediate | 15 queries |
-| [02 — BikeStores Sales Database](./02_BikeStores_Database/) | BikeStores | Intermediate → Advanced | 12 queries |
+| [[01 — ITI Academic Database](./ITI/)) | ITI System | Foundational → Intermediate | 15 queries |
+| [[02 — BikeStores Sales Database](./02_BikeStores_Database/)) | BikeStores | Intermediate → Advanced | 12 queries |
 
 ---
 
